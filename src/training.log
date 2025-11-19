@@ -1,0 +1,8 @@
+2024-01-20 17:04:13,280 - INFO - CacheInfo(hits=0, misses=1, maxsize=None, currsize=1)
+2024-01-20 17:04:13,281 - INFO - CacheInfo(hits=0, misses=0, maxsize=None, currsize=0)
+2024-01-20 17:10:49,624 - INFO - CacheInfo(hits=0, misses=1, maxsize=None, currsize=1)
+2024-01-20 17:10:49,624 - INFO - CacheInfo(hits=0, misses=0, maxsize=None, currsize=0)
+2024-01-20 17:12:54,931 - INFO - CacheInfo(hits=0, misses=1, maxsize=None, currsize=1)
+2024-01-20 17:12:54,932 - INFO - CacheInfo(hits=0, misses=0, maxsize=None, currsize=0)
+2024-01-20 17:15:12,430 - INFO - CacheInfo(hits=0, misses=1, maxsize=None, currsize=1)
+2024-01-20 17:15:12,431 - INFO - CacheInfo(hits=0, misses=0, maxsize=None, currsize=0)

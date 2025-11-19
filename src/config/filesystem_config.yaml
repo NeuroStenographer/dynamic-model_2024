@@ -1,0 +1,13 @@
+DIRS:
+  MAT:
+    TRAIN: D:/speechbci_data/competition_data/competition/train"
+    TEST: D:/speechbci_data/competition_data/competition/test"
+    HOLDOUT: D:/speechbci_data/competition_data/competition/holdout"
+  H5_DIR: D:/speechbci_data/competition_data/competition_h5/train/train.hdf5
+  H5_TEST_DIR: D:/speechbci_data/competition_data/test_h5/test.hdf5
+  OUTPUT:
+    CHECKPOINTS: D:/speechbci_data/competition_data/competition/checkpoints/whisper_4L_6H_64S
+    #CHECKPOINTS: K:/ke/sta/data/Willett&EtAl2023/output/checkpoints256
+    LOGS: none
+    METRICS: none
+    PLOTS: none
